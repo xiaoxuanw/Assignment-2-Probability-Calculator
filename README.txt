@@ -1,3 +1,5 @@
+Grade: 94/100
+Creative portion is not enough -6
 In this file you should include:
 
 Any information you think we should know about your submission
